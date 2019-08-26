@@ -1,19 +1,347 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d7e02e1-195e-45b5-8603-c24491777da2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WeatherForecast.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/WeatherForecast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnerClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/RunnerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompareJSON.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/CompareJSON.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONdata" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/JSONdata">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="61" selection-start-column="61" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompareXML.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/CompareXML.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLdata.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/XMLdata.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+              <folding>
+                <element signature="e#2729#2733#0" expanded="true" />
+                <element signature="e#2741#2745#0" expanded="true" />
+                <element signature="e#2792#2796#0" expanded="true" />
+                <element signature="e#2813#2817#0" expanded="true" />
+                <element signature="e#2821#2825#0" expanded="true" />
+                <element signature="e#2842#2846#0" expanded="true" />
+                <element signature="e#2847#2851#0" expanded="true" />
+                <element signature="e#2870#2874#0" expanded="true" />
+                <element signature="e#2876#2880#0" expanded="true" />
+                <element signature="e#2897#2901#0" expanded="true" />
+                <element signature="e#2905#2909#0" expanded="true" />
+                <element signature="e#2939#2943#0" expanded="true" />
+                <element signature="e#2947#2951#0" expanded="true" />
+                <element signature="e#2968#2972#0" expanded="true" />
+                <element signature="e#2976#2980#0" expanded="true" />
+                <element signature="e#2997#3001#0" expanded="true" />
+                <element signature="e#3002#3006#0" expanded="true" />
+                <element signature="e#3015#3019#0" expanded="true" />
+                <element signature="e#3021#3025#0" expanded="true" />
+                <element signature="e#3042#3046#0" expanded="true" />
+                <element signature="e#3050#3054#0" expanded="true" />
+                <element signature="e#3109#3113#0" expanded="true" />
+                <element signature="e#3117#3121#0" expanded="true" />
+                <element signature="e#3176#3180#0" expanded="true" />
+                <element signature="e#3184#3188#0" expanded="true" />
+                <element signature="e#3243#3247#0" expanded="true" />
+                <element signature="e#3251#3255#0" expanded="true" />
+                <element signature="e#3310#3314#0" expanded="true" />
+                <element signature="e#3318#3322#0" expanded="true" />
+                <element signature="e#3377#3381#0" expanded="true" />
+                <element signature="e#3385#3389#0" expanded="true" />
+                <element signature="e#3406#3410#0" expanded="true" />
+                <element signature="e#3414#3418#0" expanded="true" />
+                <element signature="e#3435#3439#0" expanded="true" />
+                <element signature="e#3510#3514#0" expanded="true" />
+                <element signature="e#3545#3549#0" expanded="true" />
+                <element signature="e#3551#3555#0" expanded="true" />
+                <element signature="e#3572#3576#0" expanded="true" />
+                <element signature="e#3580#3584#0" expanded="true" />
+                <element signature="e#3601#3605#0" expanded="true" />
+                <element signature="e#3609#3613#0" expanded="true" />
+                <element signature="e#3630#3634#0" expanded="true" />
+                <element signature="e#3638#3642#0" expanded="true" />
+                <element signature="e#3661#3665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diff.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar!/org/xmlunit/diff/Diff.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElementSelectors.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar!/org/xmlunit/diff/ElementSelectors.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+              <folding>
+                <element signature="e#1354#1683#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YahooWeatherAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/YahooWeatherAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>12</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/utils/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/WheatherAPIUTility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/WheatherApiUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Condition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/YahooWeatherAPI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/XMLdata" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/CompareXML.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/XMLdata1" />
+        <option value="$PROJECT_DIR$/src/main/resources/XMLdata.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/JSONData" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/CompareJSON.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/RunnerClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/WeatherForecast.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkweather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkweather" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration name="CompareXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.CompareXML" />
+      <module name="checkweather" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WeatherForecast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.WeatherForecast" />
+      <module name="checkweather" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WheatherApiUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.WheatherApiUtility" />
+      <module name="checkweather" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -55,9 +383,445 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.WheatherApiUtility" />
+      <item itemvalue="Application.WeatherForecast" />
+      <item itemvalue="Application.CompareXML" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeatherForecast" />
+        <item itemvalue="Application.CompareXML" />
+        <item itemvalue="Application.WheatherApiUtility" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d7e02e1-195e-45b5-8603-c24491777da2" name="Default" comment="" />
+      <created>1566758597441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566758597441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32969698" />
+      <window_info anchor="right" id="Codota" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32969698" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32969698" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Codota" order="2" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info active="true" anchor="bottom" id="Messages" order="3" visible="true" weight="0.32969698" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/CompareXML.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/CompareXML.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/CompareXML.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>doc1.is(doc2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>doc1.isEqualNode(doc2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>diff = DiffBuilder.compare(xml1).withTest(xml2)
+					.ignoreWhitespace()
+					.normalizeWhitespace().ignoreComments()
+					.checkForSimilar() 						// a different order is always 'similar' not equals.
+					.withNodeMatcher(new DefaultNodeMatcher(ElementSelectors.byName))
+					.build();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>diff = new DetailedDiff(XMLUnit.compareXML(xml1, xml2));</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.parseInt(nodeMap.getNamedItem(&quot;code&quot;).getNodeValue()) == Condition.THUNDERSTORMS.getCode() &amp;&amp; nodeMap.getNamedItem(&quot;text&quot;).getNodeValue().equalsIgnoreCase(Condition.THUNDERSTORMS.getDesc())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Integer.parseInt(nodeMap.getNamedItem(&quot;code&quot;).getNodeValue()) == Condition.THUNDERSTORMS.getCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeMap.getNamedItem(&quot;code&quot;).getNodeValue() == Condition.THUNDERSTORMS.getCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeMap.getNamedItem(&quot;code&quot;).getNodeValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeMap.getNamedItem(&quot;code&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeMap.getNamedItem(&quot;text&quot;).getNodeValue().equalsIgnoreCase(Condition.RAIN.getDesc())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;&lt;rss xmlns:geo=\&quot;http://www.w3.org/2003/01/geo/wgs84_pos#\&quot; xmlns:yweather=\&quot;http://xml.weather.yahoo.com/ns/rss/1.0\&quot; version=\&quot;2.0\&quot;&gt;&lt;channel&gt;&lt;yweather:units distance=\&quot;mile\&quot; pressure=\&quot;inch Hg\&quot; speed=\&quot;m/h\&quot; temperature=\&quot;F\&quot;/&gt;&lt;title&gt;Yahoo! Weather - Gurgaon, HR, IN&lt;/title&gt;&lt;link&gt;https://www.yahoo.com/news/weather/country/state/city-2295020/&lt;/link&gt;&lt;description&gt;Yahoo! Weather for Gurgaon, HR, IN&lt;/description&gt;&lt;language&gt;en-us&lt;/language&gt;&lt;lastBuildDate&gt;Mon, 26 Aug 2019 05:32 PM IST&lt;/lastBuildDate&gt;&lt;ttl&gt;60&lt;/ttl&gt;&lt;yweather:location city=\&quot;Gurgaon\&quot; country=\&quot;India\&quot; region=\&quot; HR\&quot;/&gt;&lt;yweather:wind chill=\&quot;90\&quot; direction=\&quot;113\&quot; speed=\&quot;4.97\&quot;/&gt;&lt;yweather:atmosphere humidity=\&quot;67\&quot; pressure=\&quot;28.73\&quot; rising=\&quot;0\&quot; visibility=\&quot;10.00\&quot;/&gt;&lt;yweather:astronomy sunrise=\&quot;5:57 am\&quot; sunset=\&quot;6:49 pm\&quot;/&gt;&lt;image&gt;&lt;title&gt;Yahoo! Weather&lt;/title&gt;&lt;width&gt;142&lt;/width&gt;&lt;height&gt;18&lt;/height&gt;&lt;link&gt;https://www.yahoo.com/news/weather/&lt;/link&gt;&lt;url&gt;http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif&lt;/url&gt;&lt;/image&gt;&lt;item&gt;&lt;title&gt;Conditions for Gurgaon, HR, IN at 04:30 PM IST&lt;/title&gt;&lt;geo:lat&gt;28.466921&lt;/geo:lat&gt;&lt;geo:long&gt;77.043793&lt;/geo:long&gt;&lt;link&gt;https://www.yahoo.com/news/weather/country/state/city-2295020/&lt;/link&gt;&lt;pubDate&gt;Mon, 26 Aug 2019 04:30 PM IST&lt;/pubDate&gt;&lt;yweather:condition code=\&quot;4\&quot; date=\&quot;Mon, 26 Aug 2019 04:30 PM IST\&quot; temp=\&quot;90\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;26 Aug 2019\&quot; day=\&quot;Mon\&quot; high=\&quot;91\&quot; low=\&quot;79\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;27 Aug 2019\&quot; day=\&quot;Tue\&quot; high=\&quot;93\&quot; low=\&quot;80\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;28 Aug 2019\&quot; day=\&quot;Wed\&quot; high=\&quot;93\&quot; low=\&quot;81\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;29 Aug 2019\&quot; day=\&quot;Thu\&quot; high=\&quot;92\&quot; low=\&quot;81\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;30 Aug 2019\&quot; day=\&quot;Fri\&quot; high=\&quot;91\&quot; low=\&quot;81\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;31 Aug 2019\&quot; day=\&quot;Sat\&quot; high=\&quot;89\&quot; low=\&quot;82\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;01 Sep 2019\&quot; day=\&quot;Sun\&quot; high=\&quot;88\&quot; low=\&quot;79\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;02 Sep 2019\&quot; day=\&quot;Mon\&quot; high=\&quot;87\&quot; low=\&quot;79\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;03 Sep 2019\&quot; day=\&quot;Tue\&quot; high=\&quot;84\&quot; low=\&quot;80\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;yweather:forecast code=\&quot;4\&quot; date=\&quot;04 Sep 2019\&quot; day=\&quot;Wed\&quot; high=\&quot;83\&quot; low=\&quot;77\&quot; text=\&quot;Thunderstorms\&quot;/&gt;&lt;description&gt;&amp;lt;![CDATA[&amp;lt;img src=\&quot;http://l.yimg.com/a/i/us/we/52/4.gif\&quot;/&amp;gt; &amp;lt;BR /&amp;gt; &amp;lt;b&amp;gt;Current Conditions:&amp;lt;/b&amp;gt; &amp;lt;BR /&amp;gt;Thunderstorms &amp;lt;BR /&amp;gt; &amp;lt;BR /&amp;gt; &amp;lt;b&amp;gt;Forecast:&amp;lt;/b&amp;gt; &amp;lt;BR /&amp;gt; Mon - Thunderstorms. High: 91 Low: 79 &amp;lt;BR /&amp;gt; Tue - Thunderstorms. High: 93 Low: 80 &amp;lt;BR /&amp;gt; Wed - Thunderstorms. High: 93 Low: 81 &amp;lt;BR /&amp;gt; Thu - Thunderstorms. High: 92 Low: 81 &amp;lt;BR /&amp;gt; Fri - Thunderstorms. High: 91 Low: 81 &amp;lt;BR /&amp;gt; &amp;lt;BR /&amp;gt; &amp;lt;a href=\&quot;https://www.yahoo.com/news/weather/country/state/city-2295020/\&quot;&amp;gt;Full Forecast at Yahoo! Weather&amp;lt;/a&amp;gt; &amp;lt;BR /&amp;gt; &amp;lt;BR /&amp;gt; &amp;lt;BR /&amp;gt; ]]&amp;gt;&lt;/description&gt;&lt;guid isPermaLink=\&quot;false\&quot;/&gt;&lt;/item&gt;&lt;/channel&gt;&lt;/rss&gt;&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Downloads/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.net.http/java/net/http/HttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="141" column="13" selection-start-line="141" selection-start-column="13" selection-end-line="141" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.net.http/java/net/http/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/WheatherApiUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="142" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="142" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/JsonObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/JsonElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="331" column="21" selection-start-line="331" selection-start-column="21" selection-end-line="331" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="209" column="21" selection-start-line="209" selection-start-column="11" selection-end-line="209" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/w3c/dom/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.4/xmlunit-1.4-sources.jar!/org/custommonkey/xmlunit/XMLUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="624" column="23" selection-start-line="624" selection-start-column="23" selection-end-line="624" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/jdk-12.0.2.jdk/Contents/Home/lib/src.zip!/java.xml/org/w3c/dom/NamedNodeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar!/org/xmlunit/diff/ElementSelectors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+          <folding>
+            <element signature="e#1354#1683#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar!/org/xmlunit/diff/Diff.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/YahooWeatherAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/XMLdata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-end-line="18" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/XMLdata1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/XMLdata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+          <folding>
+            <element signature="e#2729#2733#0" expanded="true" />
+            <element signature="e#2741#2745#0" expanded="true" />
+            <element signature="e#2792#2796#0" expanded="true" />
+            <element signature="e#2813#2817#0" expanded="true" />
+            <element signature="e#2821#2825#0" expanded="true" />
+            <element signature="e#2842#2846#0" expanded="true" />
+            <element signature="e#2847#2851#0" expanded="true" />
+            <element signature="e#2870#2874#0" expanded="true" />
+            <element signature="e#2876#2880#0" expanded="true" />
+            <element signature="e#2897#2901#0" expanded="true" />
+            <element signature="e#2905#2909#0" expanded="true" />
+            <element signature="e#2939#2943#0" expanded="true" />
+            <element signature="e#2947#2951#0" expanded="true" />
+            <element signature="e#2968#2972#0" expanded="true" />
+            <element signature="e#2976#2980#0" expanded="true" />
+            <element signature="e#2997#3001#0" expanded="true" />
+            <element signature="e#3002#3006#0" expanded="true" />
+            <element signature="e#3015#3019#0" expanded="true" />
+            <element signature="e#3021#3025#0" expanded="true" />
+            <element signature="e#3042#3046#0" expanded="true" />
+            <element signature="e#3050#3054#0" expanded="true" />
+            <element signature="e#3109#3113#0" expanded="true" />
+            <element signature="e#3117#3121#0" expanded="true" />
+            <element signature="e#3176#3180#0" expanded="true" />
+            <element signature="e#3184#3188#0" expanded="true" />
+            <element signature="e#3243#3247#0" expanded="true" />
+            <element signature="e#3251#3255#0" expanded="true" />
+            <element signature="e#3310#3314#0" expanded="true" />
+            <element signature="e#3318#3322#0" expanded="true" />
+            <element signature="e#3377#3381#0" expanded="true" />
+            <element signature="e#3385#3389#0" expanded="true" />
+            <element signature="e#3406#3410#0" expanded="true" />
+            <element signature="e#3414#3418#0" expanded="true" />
+            <element signature="e#3435#3439#0" expanded="true" />
+            <element signature="e#3510#3514#0" expanded="true" />
+            <element signature="e#3545#3549#0" expanded="true" />
+            <element signature="e#3551#3555#0" expanded="true" />
+            <element signature="e#3572#3576#0" expanded="true" />
+            <element signature="e#3580#3584#0" expanded="true" />
+            <element signature="e#3601#3605#0" expanded="true" />
+            <element signature="e#3609#3613#0" expanded="true" />
+            <element signature="e#3630#3634#0" expanded="true" />
+            <element signature="e#3638#3642#0" expanded="true" />
+            <element signature="e#3661#3665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/JSONdata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/CompareJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/CompareXML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/RunnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/WeatherForecast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -81,6 +845,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>checkweather</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -95,6 +872,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
